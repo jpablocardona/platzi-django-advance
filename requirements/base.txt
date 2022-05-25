@@ -14,7 +14,7 @@ djangorestframework==3.11.0
 django-filter==2.0.0
 
 # PyJWT
-pyjwt==1.7.1
+pyjwt==2.4.0
 
 # Environment
 django-environ==0.4.5
